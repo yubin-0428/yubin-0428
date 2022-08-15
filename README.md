@@ -1,11 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=YUBIN%20CHOI&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CHOI%20YUBIN&fontSize=80)
 
-😋 introduction 😋   
-안녕하십니까
+## 🎉 Introduction   
+안녕하십니까! 저는 최유빈이라고 합니다. 
 
+## 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yubin-0428&show_icons=true&theme=dracula)
 
-✏ Studying 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yubin-0428&layout=compact)](https://github.com/yubin-0428/github-readme-stats)
+
+
+## ✏ Studying 
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
@@ -19,3 +23,6 @@
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
